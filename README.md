@@ -1,6 +1,6 @@
 # micro-coupon-ui
 
-A micro frontend for smartux UI.
+A micro frontend for coupon UI.
 
 # Getting started
 
