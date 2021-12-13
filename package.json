@@ -1,7 +1,7 @@
 {
   "name": "coupon",
   "version": "1.0.0",
-  "description": "",
+  "description": "A micro frontend for coupon UI",
   "main": "index.js",
   "scripts": {
     "start": "PORT=3002 react-app-rewired start",
@@ -25,7 +25,7 @@
     "react-app-rewired": "^2.1.1"
   },
   "config-overrides-path": "node_modules/react-app-rewire-micro-frontends",
-  "author": "",
+  "author": "hoangl@mz.co.kr",
   "license": "ISC",
   "browserslist": [
     ">0.2%",
